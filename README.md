@@ -1,4 +1,4 @@
-# Online Code Editor
+# CodeVerse-Online Code Editor.
 A full stack web application for online programming, built with React(Frontend) and Express(Backend).
 <kbd>![image](/public/codeeditor.png)</kbd>
 
@@ -18,5 +18,4 @@ The Client is built with React and 3rd-party libraries, see below.
 * Rich Text Editor: react-ace
 
 
-# Docker
-Build for production. All the compiled html files and js files will be generated in `dist`.
+
